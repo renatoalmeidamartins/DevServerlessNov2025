@@ -8,3 +8,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 
 ## Links do dia 1
 - [AWS Builder center, um ponto de partida para diversos recursos de apoio a desenvolvedores](https://builder.aws.com/)
+- [Bedrock Agentcore](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
