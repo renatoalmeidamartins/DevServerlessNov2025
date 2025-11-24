@@ -32,3 +32,11 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Retries em invocação assíncrona de Lambda](https://docs.aws.amazon.com/lambda/latest/dg/invocation-async-error-handling.html)
 - [Fontes parceiras para eventos no EventBridge](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
 - [Lista completa de parceiros suportados para EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-saas.html#eb-supported-integrations)
+
+## Fluxo previso para o dia 2
+- Iniciamos com a task 3 do Try-it-out do Dia 1 (Eventbridge)
+- Em seguida, concluimos o modulo 5 (SNS)
+- Task 4 to try-it-out do dia 1(SNS)
+- Modulo 6 - SQS e Streams (DynamoDB e Kinesis)
+- Task 5 do try-it-out do dia 1 (SQS)
+- Lab 2 - Cerca de 10:30 devemos estar com isto terminado
