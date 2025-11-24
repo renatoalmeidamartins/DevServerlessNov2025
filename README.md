@@ -23,3 +23,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Autenticacão de pedidos usando SigV4](https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-authenticating-requests.html)
 - [Micro-serviços de uma só função podem ser expostos por uma URL de função Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [Comparação entre APIs REST e HTTP](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
+- [Desenho de uma API GraphQL usando AppSync](https://docs.aws.amazon.com/appsync/latest/devguide/blank-import-api.html)
