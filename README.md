@@ -7,3 +7,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 
 
 ## Links do dia 1
+- [AWS Builder center, um ponto de partida para diversos recursos de apoio a desenvolvedores](https://builder.aws.com/)
