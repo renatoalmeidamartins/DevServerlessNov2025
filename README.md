@@ -17,3 +17,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
   - [Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
   - [Reshift](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-serverless.html)
   - [EMR](https://docs.aws.amazon.com/emr/latest/EMR-Serverless-UserGuide/emr-serverless.html)
+- [12 factor app, boas ideias para aplicações serverless](https://12factor.net/)
