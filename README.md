@@ -28,4 +28,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Exemplo "hello world"  no CDK](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html)
 - [Repo do SAM - Serverless Application model](https://github.com/aws/serverless-application-model)
 - [Repo com os templates de app do SAM](https://github.com/aws/aws-sam-cli-app-templates)
-- 
+- [Framework de Amplify](https://docs.amplify.aws/react/)
