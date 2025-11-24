@@ -1,7 +1,7 @@
 # DevServerlessNov2025
 
 ## Material e acesso a laboratórios
-- [Online Course supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1880/developing-serverless-solutions-on-aws-course-supplement-ocs)
+- [Online Course supplement](https://skillbuilder.aws/learn/7UUHTNPDKS/developing-serverless-solutions-on-aws--course-supplement-ocs/PSKFU4NPQQ)
 - [Acesso ao material e laboratórios](https://us-east-1.student.classrooms.aws.training/class/ilt%236ZPULEf9Us5R86iYkX5UYr), Ao abrir este link, você verá uma tela para fazer login, parecida com a tela abaixo<br><img src="./lab-login.jpg" alt="login options" width="300" height="300"/><br>Você deve fazer login com o mesmo email usado para registrar-se no curso.<br>
 A forma tipicamente recomendada para login é usando o "builder id". O problema é que normalmente este funciona apenas com emails pessoais. Se você se registrou com a sua conta corporativa, escolha "One-time email passcode". Caso este não funcione (por exemplo, por bloqueio no seu servidor de email), utilize "Organization SSO". A opção de SSO talvez te impeça de realizar os labs corretamente.<br>Uma vez que você esteja registrado, pode ser que receba um "acesso negado". Me avise, que acrescento o email que você está utilizando à classe.
 
