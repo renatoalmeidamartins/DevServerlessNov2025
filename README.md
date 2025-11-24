@@ -11,3 +11,9 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [AWS Builder center, um ponto de partida para diversos recursos de apoio a desenvolvedores](https://builder.aws.com/)
 - [Bedrock Agentcore](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
 - [Lente de serverless, na well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html?did=wp_card&trk=wp_card)
+- Alguns serviços, tradicionalmente consumidos como não-serverless, que oferecem tem um tempo, "versões" serverless
+  - [Elasticache](https://aws.amazon.com/blogs/aws/amazon-elasticache-serverless-for-redis-and-memcached-now-generally-available/)
+  - [OpenSearch](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/serverless.html)
+  - [Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html)
+  - [Reshift](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-serverless.html)
+  - [EMR](https://docs.aws.amazon.com/emr/latest/EMR-Serverless-UserGuide/emr-serverless.html)
