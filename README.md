@@ -18,3 +18,5 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
   - [Reshift](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-serverless.html)
   - [EMR](https://docs.aws.amazon.com/emr/latest/EMR-Serverless-UserGuide/emr-serverless.html)
 - [12 factor app, boas ideias para aplicações serverless](https://12factor.net/)
+- [Video do Rick Houlihan descrevendo padrões avançados de projeto no DynamoDB](https://www.youtube.com/watch?v=xfxBhvGpoa0)
+- [Melhores práticas para uso de DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
