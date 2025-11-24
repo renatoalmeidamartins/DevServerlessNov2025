@@ -29,3 +29,5 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Repo do SAM - Serverless Application model](https://github.com/aws/serverless-application-model)
 - [Repo com os templates de app do SAM](https://github.com/aws/aws-sam-cli-app-templates)
 - [Framework de Amplify](https://docs.amplify.aws/react/)
+- [Retries em invocação assíncrona de Lambda](https://docs.aws.amazon.com/lambda/latest/dg/invocation-async-error-handling.html)
+- [Fontes parceiras para eventos no EventBridge](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
