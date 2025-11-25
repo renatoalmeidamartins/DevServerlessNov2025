@@ -37,3 +37,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 
 ## Fluxo previso para o dia 2
 - [Fases de retry do SNS](https://docs.aws.amazon.com/sns/latest/dg/sns-message-delivery-retries.html)
+- [Como Lambda processa registros de fontes de eventos de stream e filas](https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html)
