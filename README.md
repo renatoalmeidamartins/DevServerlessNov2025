@@ -40,6 +40,7 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Como Lambda processa registros de fontes de eventos de stream e filas](https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html)
 - [Melhores práticas para funções Lambda](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 - [Configuração de concorrência em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html)
+- [Migrando de X-Ray para Open Telemetry (OTel)](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
 - [Usando RDS Proxy](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy.howitworks.html)
 - [Conexão a recursos usando Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html)
 - [Linguagem de estados (state language) usada pelo Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)
