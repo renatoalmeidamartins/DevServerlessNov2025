@@ -36,9 +36,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Geração de code binding com base nos eventos do Schema Registry](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-schema-code-bindings.html)
 
 ## Fluxo previso para o dia 2
-- Iniciamos com a task 3 do Try-it-out do Dia 1 (Eventbridge)
-- Em seguida, concluimos o modulo 5 (SNS)
-- Task 4 to try-it-out do dia 1(SNS)
-- Modulo 6 - SQS e Streams (DynamoDB e Kinesis)
-- Task 5 do try-it-out do dia 1 (SQS)
-- Lab 2 - Cerca de 10:30 devemos estar com isto terminado
+- [Fases de retry do SNS](https://docs.aws.amazon.com/sns/latest/dg/sns-message-delivery-retries.html)
