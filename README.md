@@ -35,7 +35,9 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Lista completa de parceiros suportados para EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-saas.html#eb-supported-integrations)
 - [Geração de code binding com base nos eventos do Schema Registry](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-schema-code-bindings.html)
 
-## Fluxo previso para o dia 2
+## Dia 2
 - [Fases de retry do SNS](https://docs.aws.amazon.com/sns/latest/dg/sns-message-delivery-retries.html)
 - [Como Lambda processa registros de fontes de eventos de stream e filas](https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html)
 - [Melhores práticas para funções Lambda](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+- [Configuração de concorrência em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html)
+- [Usando RDS Proxy](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy.howitworks.html)
