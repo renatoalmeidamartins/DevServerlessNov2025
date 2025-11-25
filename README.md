@@ -43,3 +43,5 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Usando RDS Proxy](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy.howitworks.html)
 - [Conexão a recursos usando Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html)
 - [Linguagem de estados (state language) usada pelo Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)
+- [Livros de SRE no Google](https://sre.google/books/)
+- [Classe de armazenamento para logs, infrequent access](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
