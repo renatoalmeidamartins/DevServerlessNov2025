@@ -24,6 +24,7 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Micro-serviços de uma só função podem ser expostos por uma URL de função Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [Comparação entre APIs REST e HTTP](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
 - [Desenho de uma API GraphQL usando AppSync](https://docs.aws.amazon.com/appsync/latest/devguide/blank-import-api.html)
+- [Arquitetura de APIs de GraphQL](https://aws.amazon.com/blogs/architecture/how-to-architect-apis-for-scale-and-security/)
 - [Planos diversos no Cognito com funcionalidades diferentes](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
 - [Exemplo "hello world"  no CDK](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html)
 - [Repo do SAM - Serverless Application model](https://github.com/aws/serverless-application-model)
