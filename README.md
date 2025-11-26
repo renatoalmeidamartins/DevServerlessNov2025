@@ -77,3 +77,9 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
   - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - [Clean Code - um livro excelente sobre boas práticas de programação](https://www.amazon.com.br/-/en/Martin-Robert/dp/0132350882)
 - [Teste de UX usando uma estrutura completamente serverless](https://aws.amazon.com/blogs/devops/serverless-ui-testing-using-selenium-aws-lambda-aws-fargate-and-aws-developer-tools/)
+- [Simian army, conceito apresentado pela Netflix](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
+- [Fault injection service - serviço para trabalhar com engenharia do caos](https://aws.amazon.com/fis/ )
+- [Plugin para Jenkins fazer build no codebuild](https://plugins.jenkins.io/aws-codebuild/)
+- [Plugin de Jenkins para fazer builds em EC2](https://plugins.jenkins.io/ec2/)
+- [Usando runners do codebuild para pipelines do GitHub](https://docs.aws.amazon.com/codebuild/latest/userguide/action-runner.html)
+- 
