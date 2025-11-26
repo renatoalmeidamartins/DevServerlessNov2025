@@ -37,6 +37,8 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 
 ## Dia 2
 - [Fases de retry do SNS](https://docs.aws.amazon.com/sns/latest/dg/sns-message-delivery-retries.html)
+- [Visibility timeout em SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility-timeout.html)
+- [Short e long polling em SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html)
 - [Como Lambda processa registros de fontes de eventos de stream e filas](https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html)
 - [Melhores práticas para funções Lambda](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 - [Configuração de concorrência em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html)
