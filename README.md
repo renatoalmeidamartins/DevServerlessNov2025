@@ -61,3 +61,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Desenvolvendo regras de config com o uso de Guard](https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config_develop-rules_cfn-guard.html)
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [Serverless parody - reduzir seu ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
+- [Desde 2023, os "saltos"  de escala de Lambda são significativamente mais altos](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
