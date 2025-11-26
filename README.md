@@ -1,10 +1,10 @@
 # DevServerlessNov2025
 
-# Avaliacao do curso
-- Acesse [aws.training](https://aws.training)
-- Clique em  "sign in" e faça log in com a mesma conta usada para acessar o material e laboratório
-- Vá no topo, à direita, em "Minha Conta", e então "Transcript", clique na seção de "Arquivado" (acesso direto nesta URL https://www.aws.training/Account/Transcript/Archived)
-- Deve estar aí um botão para avaliar o curso.
+## Avaliação do curso
+- Caso não tenha recebido um e-mail com o link, experimente acessar [aws.training](https://aws.training)
+  - Clique em  "sign in" e faça log in com a mesma conta usada para acessar o material e laboratório
+  - Vá no topo, à direita, em "Minha Conta", e então "Transcript", clique na seção de "Arquivado" (acesso direto nesta URL https://www.aws.training/Account/Transcript/Archived)
+  - Deve estar aí um botão para avaliar o curso.
 
 
 ## Material e acesso a laboratórios
