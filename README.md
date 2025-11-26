@@ -76,3 +76,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
   - [Inner sourcing](https://about.gitlab.com/topics/version-control/what-is-innersource/)
   - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - [Clean Code - um livro excelente sobre boas práticas de programação](https://www.amazon.com.br/-/en/Martin-Robert/dp/0132350882)
+- [Teste de UX usando uma estrutura completamente serverless](https://aws.amazon.com/blogs/devops/serverless-ui-testing-using-selenium-aws-lambda-aws-fargate-and-aws-developer-tools/)
