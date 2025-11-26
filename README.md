@@ -51,3 +51,8 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 ## Dia 3
 - [Funções de rotação de lambda no Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [Dia 24/11/2025, o CodeCommit voltou das cinzas](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/). Importante lembrar que ele [tinha sido desativado em julho de 2024](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
+- [Configurando assinatura de código para funções lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-codesigning.html)
+- [CORS para APIs REST no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html)
+- [CORS para APIs HTTP no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-cors.html)
+- [CORS para S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
+- [Definindo OAI - origin access identity, ou OAC - origin access control no CloudFront)[https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html]
