@@ -48,3 +48,6 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Linguagem de estados (state language) usada pelo Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)
 - [Livros de SRE no Google](https://sre.google/books/)
 - [Classe de armazenamento para logs, infrequent access](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
+## Dia 3
+- [Funções de rotação de lambda no Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
+- [Dia 24/11/2025, o CodeCommit voltou das cinzas](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/). Importante lembrar que ele [tinha sido desativado em julho de 2024](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
