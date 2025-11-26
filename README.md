@@ -6,6 +6,9 @@
   - Vá no topo, à direita, em "Minha Conta", e então "Transcript", clique na seção de "Arquivado" (acesso direto nesta URL https://www.aws.training/Account/Transcript/Archived)
   - Deve estar aí um botão para avaliar o curso.
 
+## Dados de contato
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
 
 ## Material e acesso a laboratórios
 - [Online Course supplement](https://skillbuilder.aws/learn/7UUHTNPDKS/developing-serverless-solutions-on-aws--course-supplement-ocs/PSKFU4NPQQ)
