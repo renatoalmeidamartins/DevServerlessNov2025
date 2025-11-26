@@ -62,3 +62,4 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [Serverless parody - reduzir seu ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
 - [Desde 2023, os "saltos"  de escala de Lambda são significativamente mais altos](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
+- [Enhanced fan-out em Kinesis, entregando 2MB/s para cada consumidor, e não compartilhando para todos clientes do shard](https://aws.amazon.com/blogs/aws/kds-enhanced-fanout/)
