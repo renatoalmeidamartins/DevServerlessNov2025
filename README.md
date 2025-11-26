@@ -70,3 +70,9 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [Serverless parody - reduzir seu ops](https://www.youtube.com/watch?v=zMua0cuhFnc)
 - [Desde 2023, os "saltos"  de escala de Lambda são significativamente mais altos](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
 - [Enhanced fan-out em Kinesis, entregando 2MB/s para cada consumidor, e não compartilhando para todos clientes do shard](https://aws.amazon.com/blogs/aws/kds-enhanced-fanout/)
+- Alguns tipos de fluxo de estratégias de branching em git:
+  - [Git flow](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+  - [Inner sourcing](https://about.gitlab.com/topics/version-control/what-is-innersource/)
+  - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
+- [Clean Code - um livro excelente sobre boas práticas de programação](https://www.amazon.com.br/-/en/Martin-Robert/dp/0132350882)
