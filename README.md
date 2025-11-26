@@ -55,7 +55,7 @@ A forma tipicamente recomendada para login é usando o "builder id". O problema 
 - [CORS para APIs REST no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html)
 - [CORS para APIs HTTP no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-cors.html)
 - [CORS para S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
-- [Definindo OAI - origin access identity, ou OAC - origin access control no CloudFront)[https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html]
+- [Definindo OAI - origin access identity, ou OAC - origin access control no CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html]
 - [Conformance packs do Config](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [Repo com regras de config](https://github.com/awslabs/aws-config-rules)
 - [Desenvolvendo regras de config com o uso de Guard](https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config_develop-rules_cfn-guard.html)
